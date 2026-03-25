@@ -61,6 +61,7 @@ Zero-knowledge proofs and cryptographic vulnerability research.
 ## AI 安全研究
 Security research related to AI: AI for Security and Security for AI.
 * :fire:[OpenClaw 极简安全实践指南 (Security Practice Guide)](https://github.com/slowmist/openclaw-security-practice-guide)
+* :fire:[SlowMist Agent Security Skill](https://github.com/slowmist/slowmist-agent-security)
 * :fire:[MistTrack Skills](https://github.com/slowmist/misttrack-skills)
 * [MCP 安全检查清单](https://github.com/slowmist/MCP-Security-Checklist)
 * [MasterMCP: showcase various potential security attack vectors against MCP](https://github.com/slowmist/MasterMCP)
